@@ -9,4 +9,6 @@ RDEPENDS_${PN} = "\
     bluez5 \
     bluez5-obex \
     connman \
+    connman-client \
+    lowpan-tools \
     "
